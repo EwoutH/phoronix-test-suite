@@ -1,5 +1,5 @@
-install: 
- - cd phoronix-test-suite/
- - install-sh
+os:
+ - linux
+ - osx
 
-build_script: phoronix-test-suite
+script: phoronix-test-suite benchmark smallpt
