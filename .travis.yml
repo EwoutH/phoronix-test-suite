@@ -5,3 +5,4 @@ php:
   - hhvm # on Trusty only
   - nightly
  
+script: phpunit pts-core
