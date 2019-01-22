@@ -1,0 +1,4 @@
+install: install.bat
+
+build: false
+build_script: phoronix-test-suite.bat
