@@ -1,3 +1,5 @@
-install: install-sh
+install: 
+ - cd phoronix-test-suite/
+ - install-sh
 
 build_script: phoronix-test-suite
